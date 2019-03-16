@@ -1,0 +1,51 @@
+
+								   LV-SE MASTER ADDITIONS LOG
+								   LV-SE MASTER ADDITIONS LOG
+								   LV-SE MASTER ADDITIONS LOG
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+THIS IS NOT A VERSION LOG
+THE MASTER ADDITIONS LOG CONTAINS CHANGES AND FIXES BUT NOT A FULL DETAILED UPDATE LOG
+SOME BUILDS MAY BE SKIPPED
+
+-------------------------------------------------------------------------------------------
+
+			Build: 003
+			Released: 03/06/2019
+			
+			Post processing added
+			Added Planets & Star
+
+-------------------------------------------------------------------------------------------
+
+			Build: 005
+			Released: 03/06/2019
+			
+			Entry animation completed. ~ Added jumping into hyperspace scene
+			General environment created
+
+-------------------------------------------------------------------------------------------
+
+			Build: 008
+			Released: 03/13/2019
+			
+			First room completed ~ Portal room
+			Tweaked entry animation
+
+-------------------------------------------------------------------------------------------
+
+			Build: 009
+			Released: 03/14/2019
+			
+			Optimized download size
+			Planets adjusted to story + improved graphics of planets
+
+-------------------------------------------------------------------------------------------
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________

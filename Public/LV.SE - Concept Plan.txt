@@ -1,0 +1,46 @@
+
+								   LV-SE CONCEPT PLAN
+								   LV-SE CONCEPT PLAN
+								   LV-SE CONCEPT PLAN
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+LV-SE CONCEPT PLAN
+
+
+		WORLD SETTING / VISUAL GRAPHICS
+	- Space theme
+	- Low gravity
+	- Somehow have certain sounds muffled realistically
+		
+		
+		SPAWN (THE SHIP / LINDON VENFÉ)
+	- The ship must be large therefore the textures to be high quality
+	- Portals leading to different sections of the world
+
+
+		AVATAR ROOM
+	
+	- Inside the ship?
+	
+	
+		CHILL ROOM (INSIDE SHIP)
+		
+	- Teleporter to port you facing the ships front windows for a view of something
+	 *Either in front of the sun, original location, other
+	
+	
+		PORTAL ROOM
+		
+	- Gentle lighting with minimal bloom
+	- Space theme / include star field
+	- Portals leading to all created worlds
+	- Calm fitting music
+	- Anything outside must disable when in this area
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________

@@ -1,0 +1,53 @@
+
+								   LV-SE WORLD LORE
+								   LV-SE WORLD LORE
+								   LV-SE WORLD LORE
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+-------------------------------------------------------------------------------------------
+
+
+			Entry Animation: Hyperspace Entry Animation
+			Location: Spawn
+	
+			Description:
+			When any player spawns in the world, a hyperspace animation will start and
+			end in about a 20-second life span. The animation exists to begin the
+			custom 3-part-world story
+
+
+-------------------------------------------------------------------------------------------
+
+
+			Star System: The Surrounding Planets
+			Location: Scene
+	
+			Description:
+			The habitable planet closest to the gas giant is supposedly where
+			Nassachi Bay & Crash Island take place. 
+			
+			This world is 75% the size of earth and is oxygen-based, there are no ice caps
+			but every 4-8 years a major ice age occurs covering approximately
+			56% of the planet's surface.
+			
+
+-------------------------------------------------------------------------------------------
+
+
+			Space Ship: The LINDON VENFÉ
+			Location: Spawn
+			
+			Description:
+			The LV-06 or Lindon Venfé features a Class-A prototype model 6 Celeron HD
+			The Space explorer vessel is used for exploring distant galaxy's with green
+			potential worlds
+			
+-------------------------------------------------------------------------------------------
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________

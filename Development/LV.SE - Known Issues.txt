@@ -1,0 +1,21 @@
+
+								   LV-SE KNOWN ISSUES
+								   LV-SE KNOWN ISSUES
+								   LV-SE KNOWN ISSUES
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+
+
+ANY SUBMITTED BUG REPORTS TO MY DISCORD OR IN GAME WILL BE PUT HERE
+If a bug has been resolved it will have a "✔️" next to it.
+
+		Known Issues:
+	
+LVSE#0001✔️- when using the portal room teleporter, if someone respawns the ship would've
+			 been disabled and the player would fall forever, having to reset their client
+
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
